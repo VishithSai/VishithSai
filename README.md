@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hello I'm Vishith Goud!👋 
 
 - 🔭 I’m currently completing my master's in computer science from California State University Long Beach.
 - 🌱 I’m currently learning React and Node Js.
@@ -8,5 +7,4 @@
 - 💬 Ask me about DevOps, Pipeline Management, Backend Support, UI Development.
 - 📫 How to reach me: Twitter : @SaiVishith Instagram: @theishithgoud
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend hours 
--->
+- ⚡ Fun fact: I spend hours
