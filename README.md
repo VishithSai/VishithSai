@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 
 - 🔭 I’m currently completing my master's in computer science from California State University Long Beach.
 - 🌱 I’m currently learning React and Node Js.
